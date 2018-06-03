@@ -1,6 +1,0 @@
-1. 11 commits
-2. Last commit: Tue Mar 20 14:21:18
-3. Author: Stepan Bolotnikov <stjoopa@gmail.com>
-4. Added local  configuration  data, config.txt ,  1 file changed, 8 insertions(+)
-
-tegin  veel  
