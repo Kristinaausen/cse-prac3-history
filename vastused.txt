@@ -1,0 +1,5 @@
+1. 13  commitit 
+2.  krisitna,  3.  juunil 
+3.  Added local configuration data
+
+
